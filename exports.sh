@@ -12,10 +12,10 @@ export WORKSPACE=`pwd`
 export accountName="Wipro Technologies"
 export accountId="wiprotechnologies-JYRW2N"
 export authToken="BOOMI_TOKEN.nimmagadda.tejaswi@wipro.com:43ff3d09-56f5-448b-b64c-bf2e0ed5e8ab"
-export gitRepoURL="https://github.com/Tejaswi1105/CLIDEVOPS.git"
-export gitUserName="tejaswi1105"
-export gitUserEmail="tejaswi.nimmagadda11@gmail.com"
-export gitRepoName="boomi-components" # Top level folder of the GIT REPO
+export gitRepoURL="https://github.com/pasha841/CLIDEVOPS.git"
+export gitUserName="pasha841"
+export gitUserEmail="pashadevops404@gmail.com"
+export gitRepoName="CLIDEVOPS" # Top level folder of the GIT REPO
 
 
 # Keys that can change
