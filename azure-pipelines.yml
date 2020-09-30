@@ -17,7 +17,6 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 - script: |
-    echo "---"
     echo Add other tasks to build, test, and deploy your project.
     echo "++++"
     #echo See https://aka.ms/yaml
