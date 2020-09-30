@@ -16,7 +16,8 @@ export gitRepoURL="https://github.com/pasha841/CLIDEVOPS.git"
 export gitUserName="pasha841"
 export gitUserEmail="pashadevops404@gmail.com"
 export gitRepoName="CLIDEVOPS" # Top level folder of the GIT REPO
-
+export atomName="atom cloud"
+export processName="Employee_CSV_TO_XML_Process"
 
 # Keys that can change
 export VERBOSE="false" # Bash verbose output; set to true only for testing, will slow execution.

@@ -6,7 +6,7 @@
            "operator" : "and",
            "nestedExpression" : [
              {
-               "argument" : atom cloud,
+               "argument" : ["${atomName}"],
                "operator" : "EQUALS",
                "property" : "name"
              }
