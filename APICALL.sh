@@ -12,7 +12,7 @@ fi
 #Query ids (atom id, process id)
 
 source bin/queryAtom.sh atomName="$atomName" atomStatus=online atomType=$atomType
-source bin/queryprocess.sh processName="$processName"
+source bin/queryProcess.sh processName="$processName"
 
 #prepare JSON to call API
 
